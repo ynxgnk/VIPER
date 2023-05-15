@@ -5,7 +5,7 @@
 //  Created by Nazar Kopeika on 15.05.2023.
 //
 
-import Foundation /* Presenter - its a glue that ties everything together */
+import Foundation /* Presenter - its a glue that ties everything together. Holds a reference to router, interactor and view.  */
 
 //object
 //protocol

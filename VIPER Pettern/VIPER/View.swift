@@ -6,7 +6,7 @@
 //
 
 import UIKit /* 18 */
-import Foundation /* View - responsible for user interface */
+import Foundation /* View - responsible for user interface. Example: If you tap on a button on your View, and you want to show a UIAlertController, you wouldnt want to do that here, you would want to tell the presenter: "Go ahead and present this alert". */
 
 //ViewController
 //protocol

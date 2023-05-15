@@ -5,7 +5,7 @@
 //  Created by Nazar Kopeika on 15.05.2023.
 //
 
-import Foundation /* Interactor - to get data or perform some type of interaction and when it completes the interaction, its hands it to the presenter, and then the presenter will take care of what to do */
+import Foundation /* Interactor - to get data or perform some type of interaction and when it completes the interaction, it hands it to the presenter, and then the presenter will take care of what to do. Interactor performs all the core interactions. Example: In Instagram interactor will be responsible for uploading a post, fetching new post for the feed, etc. */
 
 //object
 //protocol
